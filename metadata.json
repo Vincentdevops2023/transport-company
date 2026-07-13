@@ -1,0 +1,6 @@
+{
+  "name": "TRANSPOCAM",
+  "description": "Modern, premium online ticket booking platform for TRANSPOCAM. Travel across Cameroon with luxury, speed, comfort, and safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
